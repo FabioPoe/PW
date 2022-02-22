@@ -1,0 +1,2 @@
+Here i had my h5py file of all preprocessed images from domoritz, but it is way to big for github.
+You can make the file yourself by downloading the data from the AWS S3 bucket of "https://github.com/domoritz/label_generator" and then by processing the data with the code from the file "data_preprocessing.py"
